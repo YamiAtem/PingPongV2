@@ -8,4 +8,4 @@ Press space to start and mover  the blue paddle with your mouse
 ## Credits
 This game was made by **_Atharva Mishra_** and with the help of his **_whitehat jr teacher Priya Chadha_**.
 ## Original P5JS game
-(Pong Game 2 made by Atharva_Mishra)[https://editor.p5js.org/Atharva_Mishra/present/aXbIqF2qL]
+(Pong Game 2 made by Atharva_Mishra) [https://editor.p5js.org/Atharva_Mishra/present/aXbIqF2qL]
